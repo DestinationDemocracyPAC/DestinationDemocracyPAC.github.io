@@ -3,18 +3,18 @@
 	background-color: white;
 	font-size: 17px;
 	text-align: center;
-	margin-right: 1200px;
+	margin-right: 1100px;
 	margin-left: 450px;
 	position: absolute;
-	left: 0;
-	top: 50%;
+	right: 5%;
+	top: 45%;
 
 }
 
 #logo {
 	position: absolute;
-	left: 40%;
-	top: 5%;
+	left: 55%;
+	top: 10%;
 }
 
 #copy {
@@ -30,6 +30,8 @@
   font-size:13px;
   font-family: "Roboto", sans-serif;
   letter-spacing: 1px;
+  position: absolute;
+  bottom: -100px;
 }
 
 @font-face{

@@ -52,6 +52,10 @@
 	font-family: "RobotoL", sans-serif
 }
 
+#Discord {
+	margin-bottom: -8px;
+}
+
 li {
 	display: inline;
 }

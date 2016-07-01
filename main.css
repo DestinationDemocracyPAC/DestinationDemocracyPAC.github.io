@@ -1,6 +1,43 @@
+#signup {
+	font-family: "RobotoL", sans-serif;
+	background-color: white;
+	font-size: 17px;
+	text-align: center;
+	margin-right: 1200px;
+	margin-left: 450px;
+	position: absolute;
+	left: 0;
+	top: 50%;
+
+}
+
+#logo {
+	position: absolute;
+	left: 40%;
+	top: 5%;
+}
+
 #copy {
-	margin-right: 30px;
-  padding: 8px 18px;
-  border: 1px solid #204156;
-	
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-right: 4px;
+	padding-left: 4px;
+  border: 1px solid #000000;
+  color: black;
+  text-align: center;
+  margin-right: 750px;
+  margin-left: 750px;
+  font-size:13px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+}
+
+@font-face{
+	font-family: "Roboto";
+	src: url(Roboto-Regular.ttf);
+}
+
+@font-face{
+	font-family: "RobotoL";
+	src: url(Roboto-Light.ttf);
 }

@@ -1,0 +1,65 @@
+#corbyn { 
+	position: absolute;
+	left: 35%;
+}
+
+#Navbar {
+	position: fixed;
+	left: 0%;
+	bottom: 0%;
+	width: 1920px;
+	background: rgba(255, 255, 255, 0.9);
+}
+
+#Navbar ul{
+	margin: 0;
+	padding: 8px 0px 8px 0px;
+
+}
+
+#Navbar li {
+	opacity: 1;
+	padding: 0;
+	margin-left: 27px;
+	font-size: 13px;
+	font-family: "RobotoL", sans-serif
+}
+
+#Discord {
+	margin-bottom: -8px;
+	margin-left: 8px;
+}
+
+li {
+	display: inline;
+}
+
+a:link {
+    text-decoration: none;
+	color: black;
+}
+
+a:visited {
+    text-decoration: none;
+	color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+	color: black;
+}
+
+a:active {
+    text-decoration: underline;
+	color: black;
+}
+
+@font-face{
+	font-family: "Roboto";
+	src: url(Roboto-Regular.ttf);
+}
+
+@font-face{
+	font-family: "RobotoL";
+	src: url(Roboto-Light.ttf);
+}
